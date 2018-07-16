@@ -1,7 +1,0 @@
-
-1. 使用Window 10 Pro 自身 Hyper-V 虚拟机。关于Hyper-V 的详细介绍见此网址：
-    https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/
-2. 创建虚拟机时： 
-   generation 1 支持64bit 和32bit的guest operating system；
-   generation 2 只支持 64bit的guest operating system, 且新创建的Ubuntu虚拟机要去掉“启动安全启动”选项，否则会遇到 UEFI configuration 的问题。
-3. 全屏时，屏幕无法全屏
